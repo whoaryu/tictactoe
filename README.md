@@ -2,6 +2,12 @@
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
+
+<picture>
+<img alt="Screenshot of app icon" src="https://drive.google.com/file/d/1f0A6Q5xiGYpj7heIWXIM3075e1C2zNyV/view?usp=drivesdk">
+</picture>
+
+
 ## Getting Started
 
 A few resources to get you started if this is your first Flutter project:
